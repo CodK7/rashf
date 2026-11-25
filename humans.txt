@@ -1,0 +1,18 @@
+/* TEAM */
+  Designer & Developer: Almouyad Alsarmi (المؤيد الصارمي)
+  Role: Programmer
+  Phone: +968 9595 1205
+  Email: oman2012e@gmail.com
+  Location: Izki, Ad Dakhiliyah, Sultanate of Oman
+
+/* SITE */
+  Project: RASHF (رشف)
+  Last update: 2026/11/25
+  Languages: Arabic, English
+  Standards: HTML5, CSS3, JavaScript
+  Backend: Supabase
+  Hosting: Cloudflare
+
+/* RIGHTS */
+  © 2026 Almouyad Alsarmi. Website design and source code. All rights reserved.
+  The RASHF name, logo and product content belong to RASHF.

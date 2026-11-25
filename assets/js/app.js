@@ -8,8 +8,11 @@
    - نافذة المنتج: X / ضغطة برا / Esc / زر الرجوع بالجوال
    - زر الإنستجرام: لفّة 360° ثم يفتح الحساب
    ========================================================= */
+/* © 2026 Almouyad Alsarmi (المؤيد الصارمي) — Izki, Oman · +968 9595 1205 · oman2012e@gmail.com. All rights reserved. */
 (function () {
   'use strict';
+
+  try { console.info('%cRASHF%c website designed & developed by Almouyad Alsarmi · Izki, Oman · +968 9595 1205', 'color:#c8a27a;font-weight:bold', ''); } catch (e) {}
 
   var cfg = window.RASHF_CONFIG || {};
   var root = document.documentElement;
